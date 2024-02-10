@@ -32,7 +32,7 @@ export default function Form() {
 
                 </div>
             </div>
-            <div className="flex items-center justify-center mt-5"><button onClick={ConnexionGogo} className="flex text-black hover:bg-red-950 rounded-lg text-sm px-5 py-2.5 text-center bg-primary-600 leading-tight tracking-tight">Connexion </button></div>
+            <div className="flex items-center justify-center mt-5"><button onClick={ConnexionGogo} className="flex text-black hover:bg-gray-300 rounded-lg text-sm px-5 py-2.5 text-center bg-primary-600 leading-tight tracking-tight">Connexion </button></div>
         </main>
     );
 }
